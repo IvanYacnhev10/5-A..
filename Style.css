@@ -1,0 +1,29 @@
+body {
+  background-color:black;
+  font-family:fantasy;
+}
+h1 {
+  text-align:center;
+  font-size:100px;
+  color:blueviolet;
+}
+h2 {
+  text-align:center;
+  font-size:70px;
+  color:blueviolet;
+}
+h3 {
+  color:blueviolet;
+  text-align:center;
+    font-size:30px;
+}
+h4 {
+   color:blueviolet;
+   text-align:center;
+   font-size:40px;
+}
+p {
+  color:blueviolet;
+  text-align:center;
+  font-size:30px;
+}
